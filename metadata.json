@@ -1,0 +1,8 @@
+{
+  "name": "Remix Fulgor IA Analicer Economic",
+  "description": "Plataforma de inteligencia económica avanzada del ecosistema Fulgor IA con análisis macroeconómico, causalidad econométrica, gemelo digital y medición del impacto de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
